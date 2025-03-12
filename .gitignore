@@ -1,3 +1,5 @@
 /app/main
 terraform/.terraform
 terraform/terraform.tfstate
+
+.env
